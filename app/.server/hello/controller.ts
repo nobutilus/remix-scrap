@@ -1,4 +1,4 @@
-export function Exec() {
+export function HelloController() {
 	const res = {
 		message: "Hello Component",
 	}
